@@ -216,11 +216,3 @@ Explore **Agentic AI** workflows using LangChain, AutoGPT, or custom orchestrati
 - Foundation to build production-ready AI models
 
 ---
-
-## 📖 Author
-**[Your Name]**  
-Machine Learning & AI Enthusiast | Python Developer  
-
-📩 *Open to collaboration and research projects in AI and Generative Systems.*
-
----
